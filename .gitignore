@@ -1,0 +1,9 @@
+*.pdb
+*.pyc
+TestFolders/*
+
+
+!fullTetra.txt
+!fullConn1.txt
+!fullConn2.txt
+!Using DNAPolyhedron.txt
