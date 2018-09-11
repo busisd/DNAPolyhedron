@@ -1,0 +1,13 @@
+# DNAPolyhedron
+
+Go read "using DNAPolyhedron.txt"
+
+I'll probably make this program easier to use soon by adding prompts like:
+  "What would you like to do?
+    1. Create a polyhedron
+    2. Load a polyhedron
+    3. Create a connector type 
+    4. Load a connector type 
+    5. Iterate a network"
+
+And then more prompts for each of those [e.g. "Next vertex (or 'done'): "]
