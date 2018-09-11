@@ -1,7 +1,7 @@
 *.pdb
 *.pyc
 TestFolders/*
-*.txt
+
 
 !fullTetra.txt
 !fullConn1.txt
